@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="CuTvcz-rukubuKml0ARxdw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://wordleunlimited.org/" DesignTimeRectangle="736, 235, 83, 83" DesignTimeScaleFactor="1.5" FriendlyName="'DIV'" FullSelectorArgument="&lt;webctrl tag='GAME-APP' /&gt;&lt;webctrl shadowhostid='' tag='GAME-ROW' /&gt;&lt;webctrl shadowhostid='' tag='GAME-TILE' /&gt;&lt;webctrl shadowhostid='' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='GAME-APP' /&gt;&lt;webctrl shadowhostid='' tag='GAME-ROW' /&gt;&lt;webctrl shadowhostid='' tag='GAME-TILE' /&gt;&lt;webctrl shadowhostid='' tag='DIV' type='' class='tile' aaname='' /&gt;" Guid="688a7fdf-d113-4c96-86ea-669025790147" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Wordle Unlimited games - Wordle Today' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ed9464847fa8e110bbafeb89b2e07ea6.png" xmlns="">0bZPeSnR8zkWq2nnVLDvtmA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

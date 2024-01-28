@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Div1",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "x4j-RGCMb0G2g9YflwsuDA",
+  "Reference": "JZpuQGvWBESHXGXJdv6JRQ/x4j-RGCMb0G2g9YflwsuDA",
+  "ParentRef": "JZpuQGvWBESHXGXJdv6JRQ/e4RWR25hWUy0Sl4A8PyGqw",
+  "Created": "2024-01-23T18:37:24.3250834Z",
+  "Updated": "2024-01-23T18:38:13.5301395Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
