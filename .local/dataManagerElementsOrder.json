@@ -18,6 +18,7 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "GreenDict&Sequence_1",
         "Correct&Sequence_48",
         "Incorrect&Sequence_48",
         "NotThere&Sequence_48",
