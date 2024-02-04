@@ -8,6 +8,7 @@ other
 words
 could
 write
+minty
 first
 water
 after
@@ -3969,7 +3970,6 @@ quasi
 septa
 peaky
 lorry
-heerd
 bitty
 payee
 seamy
@@ -4340,7 +4340,6 @@ parse
 rants
 zingy
 toddy
-chiff
 micro
 veeps
 girly
@@ -4741,7 +4740,6 @@ folky
 tyres
 wheee
 corky
-injun
 solon
 didot
 kerfs
@@ -5591,7 +5589,6 @@ sawer
 spics
 bedim
 snugs
-fanin
 azoic
 icers
 suers
